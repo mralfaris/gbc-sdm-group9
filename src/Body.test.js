@@ -1,4 +1,4 @@
-mport { render, screen } from '@testing-library/react';
+import { render, screen } from '@testing-library/react';
 import Body from './Body';
 
 test('renders learn react link', () => {
